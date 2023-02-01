@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abdul Mudabbir</h1>
 <h3 align="center">A passionate frontend developer from Hyderabad</h3>
+<h3> Aspiring Full-Stack Developer || Scholar Class of B22 at Code For India || MERN stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smart-mudabbir&label=Profile%20views&color=0e75b6&style=flat" alt="smart-mudabbir" /> </p>
 
